@@ -12,3 +12,4 @@ Hardware ( the easy bit) by me:)
 
 Follow along on the openinverter forum : https://openinverter.org/forum/viewtopic.php?f=17&t=1040
 
+13/05/21: Added CP can logs taken on a 2020 RHD Model 3 on CCS fast charge.
